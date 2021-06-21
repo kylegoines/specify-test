@@ -1,6 +1,5 @@
 {
   "repository": "@area17/TEG",
-  "head": "specify",
   "rules": [
     {
       "name": "Design Tokens / Colors",
