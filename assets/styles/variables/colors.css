@@ -1,0 +1,44 @@
+:root {
+  /* COLOR */
+  --accent-chicago-20: rgb(20, 31, 82);
+  --accent-chicago-30: rgb(31, 46, 122);
+  --accent-chicago-45: rgb(46, 69, 184);
+  --accent-chicago-55: rgb(71, 94, 209);
+  --accent-chicago-90: rgb(214, 219, 245);
+  --accent-chicago-95: rgb(235, 237, 250);
+  --accent-hongkong-45: rgb(29, 201, 164);
+  --accent-hongkong-55: rgb(54, 226, 189);
+  --accent-hongkong-90: rgb(210, 249, 240);
+  --accent-hongkong-95: rgb(233, 252, 248);
+  --accent-newyork-55: rgb(249, 194, 31);
+  --accent-newyork-65: rgb(250, 208, 81);
+  --accent-newyork-75: rgb(252, 221, 131);
+  --accent-newyork-90: rgb(254, 242, 205);
+  --accent-singapore-55: rgb(249, 122, 31);
+  --accent-singapore-65: rgb(250, 152, 81);
+  --accent-singapore-75: rgb(252, 181, 131);
+  --accent-singapore-90: rgb(254, 226, 205);
+  --accent-singapore-95: rgb(254, 240, 230);
+  --accent-tokyo-45: rgb(201, 29, 66);
+  --accent-tokyo-55: rgb(226, 54, 91);
+  --accent-tokyo-90: rgb(249, 210, 219);
+  --accent-tokyo-95: rgb(252, 233, 237);
+  --brand-economist-red: rgb(227, 18, 11);
+  --brand-economist-red-96: rgb(254, 236, 236);
+  --brand-economist-red-high-contrast: rgb(246, 66, 60);
+  --canvas-losangeles-85: rgb(225, 223, 208);
+  --canvas-losangeles-90: rgb(235, 233, 224);
+  --canvas-losangeles-95: rgb(245, 244, 239);
+  --canvas-paris-85: rgb(208, 225, 225);
+  --canvas-paris-90: rgb(224, 235, 235);
+  --canvas-paris-95: rgb(239, 245, 245);
+  --greyscale-london-10: rgb(26, 26, 26);
+  --greyscale-london-100: rgb(255, 255, 255);
+  --greyscale-london-100-85: rgba(255, 255, 255, 0.85);
+  --greyscale-london-20: rgb(51, 51, 51);
+  --greyscale-london-35: rgb(89, 89, 89);
+  --greyscale-london-5: rgb(13, 13, 13);
+  --greyscale-london-70: rgb(179, 179, 179);
+  --greyscale-london-85: rgb(217, 217, 217);
+  --greyscale-london-95: rgb(242, 242, 242);
+}
